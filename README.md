@@ -1,5 +1,10 @@
-### Hi there 👋
-
+# console.log("Hello There!"); 👋
+ Hey there! Nice of you to venture to my Profile! If you want to know a bit about me, then you've come to the right place! This README.md is designed just for you!
+ 
+ ## About me
+ I ususally go by MahoMuri, but my frinds know me by Kaito aswell. I am a 2nd Year Software Engineering Student who is now spending his months in quarrantine making Discord Bots and a bit of Web Development. My Main languages are JavaScript and C++, I am starting to learn Java this year so I bet it's gonna be fun!
+ 
+ 
 <!--
 **MahoMuri/MahoMuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
