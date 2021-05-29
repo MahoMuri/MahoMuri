@@ -4,7 +4,7 @@
  ## About me
  I ususally go by MahoMuri, but my frinds know me by Kaito aswell. I am a 2nd Year Software Engineering Student who is now spending his months in quarrantine making Discord Bots and a bit of Web Development. My Main languages are JavaScript and C++, I am starting to learn Java this year so I bet it's gonna be fun!
  
-- 🔭 I’m currently working on [The QDen Bot](https://github.com/QDen/QDen_Bot)
+- 🔭 I’m currently working on The Curator Bot
 - 🌱 I’m currently learning __Java__
 
 ## Contacts
