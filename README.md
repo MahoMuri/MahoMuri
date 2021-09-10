@@ -16,7 +16,7 @@ You can reach me through the following:
 ## My Magnum Opus
 [![Discord Bots](https://top.gg/api/widget/816152179101663312.svg)](https://top.gg/bot/816152179101663312)
 
-### Some stats about me
+## Github Stats
 
 [![MahoMuri's github stats](https://github-readme-stats.vercel.app/api?username=mahomuri&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
