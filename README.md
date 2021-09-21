@@ -2,7 +2,7 @@
  Hey there! Nice of you to venture to my Profile! If you want to know a bit about me, then you've come to the right place! This README.md is designed just for you!
  
  ## About me
- I ususally go by MahoMuri, but my frinds know me by Kaito aswell. I am a 3rd Year Software Engineering Student who is now spending his months in quarrantine making Discord Bots and a bit of Web Development. My Main languages are JavaScript and C++, I am starting to learn Enterprise Java this year so I bet it's gonna be fun!
+ I ususally go by MahoMuri, but my friends know me by Kaito aswell. I am a 3rd Year Software Engineering Student from [iACADEMY](https://iacademy.edu.ph/index.php) who is now spending his months in quarrantine making Discord Bots and a bit of Web Development. My Main languages are JavaScript and Java, I am starting to learn Enterprise Java this year so I bet it's gonna be fun! I've also taken up a second degree in Web Development which gets me one step closer to becoming a Full Stack Developer! Hoping to have a fun adventure and would be able to learn a lot!
  
 - 🔭 I’m currently working on [__The Curator Bot__](https://top.gg/bot/816152179101663312)
 - 🌱 I’m currently learning __Java__
