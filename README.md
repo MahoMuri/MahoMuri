@@ -10,8 +10,8 @@
 
 ## Contacts
 You can reach me through the following:
- - Discord (MahoMuri#3652)
- - Messenger
+ - Discord: 7S MahoMuri#3652
+ - Email: paolo.santos_12@yahoo.com.ph
 
 ## My Magnum Opus
 [![Discord Bots](https://top.gg/api/widget/816152179101663312.svg)](https://top.gg/bot/816152179101663312)
