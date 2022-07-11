@@ -1,8 +1,13 @@
-# console.log("Hello There!"); 👋
- Hey there! Nice of you to venture to my Profile! If you want to know a bit about me, then you've come to the right place! This README.md is designed just for you!
+<h1 aline=center>
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A9E9&lines=console.log(%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22);console.log(%22I'm+MahoMuri!%22);console.log(%22Welcome+to+my+profile!%22)" />
+ </a>
+</h1>
+
+Hey there! Nice of you to venture to my Profile! If you want to know a bit about me, then you've come to the right place! This README.md is designed just for you!
  
- ## About me
- I usually go by MahoMuri, but my friends know me by Kaito aswell. I am a 3rd Year Software Engineering Student from [iACADEMY](https://iacademy.edu.ph/index.php) who is now spending his months in quarantine making Discord Bots and a bit of Web Development. My main languages are TypeScript and Java, I am starting to learn .NET (Windows Forms) this year so I bet it's gonna be fun! You can checkout my repo for a [Simple Calculator](https://github.com/MahoMuri/SimpleCalculator) I made for a school project! I've also taken up a second degree in Web Development which gets me one step closer to becoming a Full Stack Developer! Hoping to have a fun adventure and would be able to learn a lot!
+## About me
+I usually go by MahoMuri, but my friends know me by Kaito aswell. I am a 3rd Year Software Engineering Student from [iACADEMY](https://iacademy.edu.ph/index.php) who is now spending his months in quarantine making Discord Bots and a bit of Web Development. My main languages are TypeScript and Java, I am starting to learn .NET (Windows Forms) this year so I bet it's gonna be fun! You can checkout my repo for a [Simple Calculator](https://github.com/MahoMuri/SimpleCalculator) I made for a school project! I've also taken up a second degree in Web Development which gets me one step closer to becoming a Full Stack Developer! Hoping to have a fun adventure and would be able to learn a lot!
  
 - 🔭 I’m currently working on [__Curator Bot__](https://top.gg/bot/816152179101663312)
 - 🌱 I’m currently learning **.NET**
