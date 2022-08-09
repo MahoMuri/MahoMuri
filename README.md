@@ -17,6 +17,7 @@ I usually go by MahoMuri, but my friends know me by Kaito aswell. I am a 3rd Yea
 You can reach me through the following:
  - Discord: 7S MahoMuri#3652
  - Email: paolo.santos_12@yahoo.com.ph
+              
 
 ## My Magnum Opus
 ![Curator Header](https://i.imgur.com/jq7Ox8x.png)
@@ -36,6 +37,8 @@ You can reach me through the following:
 ## Github Stats
 
 [![MahoMuri's github stats](https://github-readme-stats.vercel.app/api?username=mahomuri&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahomuri}&theme=vue
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahomuri&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
