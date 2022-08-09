@@ -17,7 +17,20 @@ I usually go by MahoMuri, but my friends know me by Kaito aswell. I am a 3rd Yea
 You can reach me through the following:
  - Discord: 7S MahoMuri#3652
  - Email: paolo.santos_12@yahoo.com.ph
-              
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahomuri/)
+
+## Profile Summary
+
+<div align=center>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahomuri&theme=github_dark">
+   <br />
+   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+   <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white">
+   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+   <img src="https://img.shields.io/badge/VSCode-323330?style=for-the-badge&logo=visual%20studio%20code&logoColor=007ACC">
+</div>
 
 ## My Magnum Opus
 ![Curator Header](https://i.imgur.com/jq7Ox8x.png)
@@ -37,8 +50,6 @@ You can reach me through the following:
 ## Github Stats
 
 [![MahoMuri's github stats](https://github-readme-stats.vercel.app/api?username=mahomuri&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahomuri}&theme=vue
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahomuri&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
