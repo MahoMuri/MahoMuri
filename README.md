@@ -17,6 +17,7 @@ I usually go by MahoMuri, but my friends know me by Kaito aswell. I am a 3rd Yea
 You can reach me through the following:
  - Discord: 7S MahoMuri#3652
  - Email: paolo.santos_12@yahoo.com.ph
+ - Gmail: paolosantos117@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahomuri/)
 
