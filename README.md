@@ -57,6 +57,9 @@ You can reach me through the following:
 ## My trophy case
 [![trophy](https://github-profile-trophy.vercel.app/?username=mahomuri&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
+## My Holopins
+[![An image of @mahomuri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mahomuri)](https://holopin.io/@mahomuri)
+
  
 <!--
 **MahoMuri/MahoMuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
