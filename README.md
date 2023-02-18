@@ -7,7 +7,7 @@
 Hey there! Nice of you to venture to my Profile! If you want to know a bit about me, then you've come to the right place! This README.md is designed just for you!
  
 ## About me
-I usually go by MahoMuri, but my friends know me by Kaito aswell. I am a 3rd Year Software Engineering Student from [iACADEMY](https://iacademy.edu.ph) who is now spending his months in quarantine making Discord Bots and a bit of Web Development. My main languages are TypeScript and Java, I am starting to learn .NET (Windows Forms) this year so I bet it's gonna be fun! You can checkout my repo for a [Simple Calculator](https://github.com/MahoMuri/SimpleCalculator) I made for a school project! I've also taken up a second degree in Web Development which gets me one step closer to becoming a Full Stack Developer! Hoping to have a fun adventure and would be able to learn a lot!
+Hi! I'm Paolo Steven B. Santos! I usually go by Paolo, but my friends know me by MahoMuri as well. I am a 4th Year Software Engineering Student from iACADEMY who spends time making Discord Bots and Web Development. My main language is TypeScript and a handful of frameworks, I am also eager to learn new things to expand my knowledge! I'm planning to learn Unity C# sometime in the future so I bet it's gonna be fun! I like problem solving and a good challenge, it helps me become a better programmer! I also like to collaborate with people and contribute or share my knowledge with others and vice versa. 
  
 - 🔭 I’m currently working on [__Curator Bot__](https://top.gg/bot/816152179101663312)
 - 🌱 I’m currently learning **Nuxt 3**
