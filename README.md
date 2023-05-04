@@ -58,7 +58,7 @@ You can reach me through the following:
 [![trophy](https://github-profile-trophy.vercel.app/?username=mahomuri&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Daily Dev Card
-<a href="https://app.daily.dev/MahoMuri"><img src="https://api.daily.dev/devcards/2024407a647e41f19b958d729518a2db.png?r=con" width="400" alt="Paolo Steven B. Santos's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 
 ## My Holopins
 [![An image of @mahomuri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mahomuri)](https://holopin.io/@mahomuri)
