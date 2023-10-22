@@ -49,16 +49,25 @@ You can reach me through the following:
 </div>
 
 ## Github Stats
-
-[![MahoMuri's github stats](https://github-readme-stats.vercel.app/api?username=mahomuri&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahomuri&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+ 
+  [![MahoMuri's github stats](https://github-readme-stats.vercel.app/api?username=mahomuri&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahomuri&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
 ## My trophy case
+<div align="center">
+ 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mahomuri&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
+</div>
+
 ## Daily Dev Card
-<a href="https://app.daily.dev/MahoMuri"><img src="https://github.com/mahomuri/mahomuri/blob/main/devcard.svg" width="400" alt="MahoMuri's Dev Card"/></a>
+<div align="center">
+ <a href="https://app.daily.dev/MahoMuri"><img src="https://github.com/mahomuri/mahomuri/blob/main/devcard.svg" width="400" alt="MahoMuri's Dev Card"/></a>
+</div>
 
 ## My Holopins
 [![An image of @mahomuri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mahomuri)](https://holopin.io/@mahomuri)
