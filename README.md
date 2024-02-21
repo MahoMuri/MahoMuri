@@ -66,7 +66,7 @@ You can reach me through the following:
 
 ## Daily Dev Card
 <div align="center">
- <a href="https://app.daily.dev/MahoMuri"><img src="https://github.com/mahomuri/mahomuri/blob/main/devcard.svg" width="400" alt="MahoMuri's Dev Card"/></a>
+ <a href="https://app.daily.dev/mahomuri"><img src="https://api.daily.dev/devcards/v2/VI0zwmreFvKkypwgDuLdp.png?type=default&r=dsi" width="356" alt="Paolo Steven B. Santos's Dev Card"/></a>
 </div>
 
 ## My Holopins
