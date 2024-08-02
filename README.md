@@ -69,6 +69,9 @@ You can reach me through the following:
  <a href="https://app.daily.dev/mahomuri"><img src="https://api.daily.dev/devcards/v2/VI0zwmreFvKkypwgDuLdp.png?type=default&r=dsi" width="356" alt="Paolo Steven B. Santos's Dev Card"/></a>
 </div>
 
+## Codeium Profile
+![codeium profile](https://codeium.com/profile/mahomuri/card.png)
+
 ## My Holopins
 [![An image of @mahomuri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mahomuri)](https://holopin.io/@mahomuri)
 
